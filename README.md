@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @goul666
-- 👀 Меня инересует кинология
-- 🌱 I’m currently learning  програмировать
+- 🌱 I’m currently learning  vibe-coding
 - 💞️ 
 
 <!---
